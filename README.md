@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bhubansaud123
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JS and React.js
-- 💞️ I’m looking to collaborate on https://www.instagram.com/itz_bhuban_s3?igsh=eW1wbmdpY2RxdjR1,https://www.facebook.com/profile.php?id=100073772164160
-- 📫 How to reach me ....
+- 💞️ I’m looking to collaborate on
+- 📫 How to reach me  https://www.facebook.com/profile.php?id=100073772164160,https://www.instagram.com/itz_bhuban_s3?igsh=eW1wbmdpY2RxdjR1  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
