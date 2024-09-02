@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning JS and React.js
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me  https://www.facebook.com/profile.php?id=100073772164160,https://www.instagram.com/itz_bhuban_s3?igsh=eW1wbmdpY2RxdjR1  
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 bhubansaud123/bhubansaud123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
