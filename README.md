@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhubansaud123
+- 👋 Hi, I’m Bhupendra Saud
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JS and React.js
 - 💞️ I’m looking to collaborate on
