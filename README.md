@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Bhupendra Saud</h1>
-<h3 align="center">Student | Learning Software Engineer | C++ & Web Development</h3>
+<h3 align="center">Student | Learning DSA | C++ & Web Development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhubansaud123&label=Profile%20Views&color=0e75b6&style=flat" />
