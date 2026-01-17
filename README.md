@@ -11,7 +11,7 @@
 
 - 🎓 Computer Science student
 - 💻 Interested in **Web Development & Software Engineering**
-- 🌱 Currently learning **Object-Oriented Programming (OOP) with C++**
+- 🌱 Currently completed **Object-Oriented Programming (OOP) with C++**
 - 🚀 Preparing for **placements by the end of 2026**
 - 📚 Improving **DSA, problem-solving & project building**
 
@@ -43,7 +43,7 @@
 
 ## 📌 What I'm Currently Doing
 
-- 🔹 Learning **OOP concepts in C++**
+- 🔹 Completed **OOP concepts in C++**
 - 🔹 Building **beginner to intermediate C++ projects**
 - 🔹 Practicing **DSA for placements**
 - 🔹 Uploading clean & well-documented code on GitHub
